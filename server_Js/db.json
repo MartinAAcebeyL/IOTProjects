@@ -1,45 +1,53 @@
 {
-    "canciones":[
-        {
-            "id":1,
-            "nombre":"cancion 1",
-            "autor":"autor 1",
-            "duracion":{
-                "min":2,
-                "seg":50
-            },
-            "publicado":false
-        },
-        {
-            "id":2,
-            "nombre":"cancion 2",
-            "autor":"autor 2",
-            "duracion":{
-                "min":2,
-                "seg":50
-            },
-            "publicado":false
-        },
-
-        {
-            "id":3,
-            "nombre":"cancion 3",
-            "autor":"autor 3",
-            "duracion":{
-                "min":2,
-                "seg":50
-            },
-            "publicado":true
-        },
-        {
-            "id":4,
-            "nombre":"cancion 4",
-            "autor":"autor 4",
-            "duracion":{
-                "min":2,
-                "seg":50
-            },
-            "publicado":true
-        }
-    ]
+  "canciones": [
+    {
+      "id": 2
+    },
+    {
+      "nombre": "actualizado cancion 2",
+      "author": "actualizado author 2",
+      "duracion": {
+        "min": 2,
+        "seg": 55
+      },
+      "publicado": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "cancion 4",
+      "autor": "autor 4",
+      "duracion": {
+        "min": 2,
+        "seg": 50
+      },
+      "publicado": true
+    },
+    {
+      "nombre": "nueva cancion",
+      "author": "nuevo author",
+      "publicado": true,
+      "id": 5
+    },
+    {
+      "nombre": "actualizacion cancion",
+      "author": "actualizacion author",
+      "duracion": {
+        "min": 2,
+        "seg": 55
+      },
+      "publicado": true,
+      "id": 6
+    },
+    {
+      "nombre": "actualizacion cancion",
+      "author": "actualizacion author",
+      "duracion": {
+        "min": 2,
+        "seg": 55
+      },
+      "publicado": true,
+      "id": 7
+    }
+  ]
 }
