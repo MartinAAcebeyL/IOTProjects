@@ -1,0 +1,22 @@
+{
+  "parcial2": [
+    {
+      "nombre": "sensor ultrasónico",
+      "evento": "prendido de alarma",
+      "distancia": 0,
+      "id": 1
+    },
+    {
+      "nombre": "sensor ultrasónico",
+      "evento": "prendido de alarma",
+      "distancia": 18.80200005,
+      "id": 2
+    },
+    {
+      "nombre": "sensor ultrasónico",
+      "evento": "prendido de alarma",
+      "distancia": 19.05699921,
+      "id": 3
+    }
+  ]
+}

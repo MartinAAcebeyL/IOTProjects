@@ -1,0 +1,40 @@
+{
+  "final": [
+    {
+      "evento": "cambio a Modo Deteccion",
+      "id": 1
+    },
+    {
+      "evento": "cambio a Modo Secuencia",
+      "id": 2
+    },
+    {
+      "evento": "cambio a Modo Deteccion",
+      "id": 3
+    },
+    {
+      "evento": "cambio a Modo Secuencia",
+      "id": 4
+    },
+    {
+      "evento": "cambio a Modo Deteccion",
+      "id": 5
+    },
+    {
+      "evento": "cambio a Modo Secuencia",
+      "id": 6
+    },
+    {
+      "evento": "cambio a Modo Deteccion",
+      "id": 7
+    },
+    {
+      "evento": "cambio a Modo Secuencia",
+      "id": 8
+    },
+    {
+      "evento": "cambio a Modo Deteccion",
+      "id": 9
+    }
+  ]
+}
